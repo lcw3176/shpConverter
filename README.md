@@ -28,12 +28,12 @@
 <img width="500" src=https://user-images.githubusercontent.com/59993347/72675793-d769dc80-3acc-11ea-8b85-fe264b39972d.png>
 
 
-* 변환된 파일들
+* 변환된 파일들(.html 파일, .xlsx 파일)
 <div>
   <img width="400" src=https://user-images.githubusercontent.com/59993347/72675796-da64cd00-3acc-11ea-8955-a3163523e696.png>
   <img width="400" src=https://user-images.githubusercontent.com/59993347/72675794-d933a000-3acc-11ea-94a7-8ddb72b7dd2f.png>
  </div>
  
- .html 파일과 .xlsx 파일
+
 
 
