@@ -27,7 +27,7 @@
 
 
 * 변환 과정
-M<img width="400" src=https://user-images.githubusercontent.com/59993347/72675793-d769dc80-3acc-11ea-8b85-fe264b39972d.png>
+<img width="400" src=https://user-images.githubusercontent.com/59993347/72675793-d769dc80-3acc-11ea-8b85-fe264b39972d.png>
 변환 완료
 
 
