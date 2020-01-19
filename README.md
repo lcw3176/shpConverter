@@ -15,3 +15,25 @@
 * 생성된 엑셀 파일에는 도로명 주소와 지번 주소가 기존 좌표와 표기됨
 * 생성되는 파일은 주소->좌표와 같음
 
+### 예제(주소->좌표)
+* 사전준비
+https://user-images.githubusercontent.com/59993347/72675798-df298100-3acc-11ea-91d5-bad37a8b9b6c.png
+엑셀 파일 준비
+
+* 세팅
+https://user-images.githubusercontent.com/59993347/72675789-c8832a00-3acc-11ea-86c3-9844c23355dc.png
+파일 삽입, 좌표계 설정
+
+* 변환 과정
+https://user-images.githubusercontent.com/59993347/72675793-d769dc80-3acc-11ea-8b85-fe264b39972d.png
+변환 완료
+
+* 변환된 파일들
+<div>
+  <img width="400" src=https://user-images.githubusercontent.com/59993347/72675796-da64cd00-3acc-11ea-8955-a3163523e696.png>
+  <img width="400" src=https://user-images.githubusercontent.com/59993347/72675794-d933a000-3acc-11ea-94a7-8ddb72b7dd2f.png>
+ </div>
+ 
+ .html 파일과 .xlsx 파일
+
+
